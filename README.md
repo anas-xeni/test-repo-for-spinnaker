@@ -5,3 +5,5 @@ test repo for cd pipeline on spinnaker
 first commit for testing trigger on spinnaker pipeline
 
 second commit
+
+third commit
